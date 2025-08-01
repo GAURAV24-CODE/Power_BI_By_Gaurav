@@ -1,7 +1,9 @@
 
 # 📊 Power BI Projects Repository
 
-Welcome to my **Power BI Projects Repository**! This repo contains end-to-end data visualization projects built using Microsoft Power BI. From importing and cleaning datasets to designing dashboards, each project demonstrates key concepts in business intelligence and data storytelling.
+Welcome to my **Power BI Projects Repository**! This repo contains end-to-end data visualization projects built using Microsoft Power BI.
+From importing and cleaning datasets to designing dashboards,
+each project demonstrates key concepts in business intelligence and data storytelling.
 
 **Created by:** Gaurav Eknath Kumbhar  
 **LinkedIn:** [www.linkedin.com/in/gaurav-kumbhar-0b4a39293](https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293)
